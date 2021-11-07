@@ -1,0 +1,16 @@
+{
+  "name": "trash-api",
+  "version": "1.0.0",
+  "description": "¯\\_(ツ)_/¯",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "captvelsky",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1"
+  }
+}
